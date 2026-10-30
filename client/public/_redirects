@@ -1,0 +1,4 @@
+# Permanent redirect for static hosts supporting the _redirects convention.
+# On other hosts, configure the same rule in the CDN/hosting dashboard.
+/blog/profesionales  /blog  301!
+/blog/profesionales/ /blog  301!
